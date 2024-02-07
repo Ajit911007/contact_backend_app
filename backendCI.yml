@@ -24,7 +24,7 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  name: hunjan/backendsvc
+  name: backendsvc
 spec:
   type: LoadBalancer
   selector:
